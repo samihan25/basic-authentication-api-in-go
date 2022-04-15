@@ -12,10 +12,8 @@ cd basic-authentication-api-in-go
 
 
 ## How to use
-goto src folder
-cd src
-
-go run .
+-  cd src
+-  go run .
 
 
 ## Available API
